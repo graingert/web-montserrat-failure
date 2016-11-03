@@ -1,0 +1,9 @@
+{
+  "name": "web-montserrat-failure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@typopro/web-montserrat": "^3.4.9"
+  }
+}
